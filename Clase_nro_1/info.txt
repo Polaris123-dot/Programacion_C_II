@@ -1,0 +1,4 @@
+El tema de clase del dia 01/09/2025 es el de programacion de Concurrente
+y este tema tiene un trabajo para la casa. 
+
+Se debe investigar mas sobre que sistemas actuales usan la programacion Concurrente
